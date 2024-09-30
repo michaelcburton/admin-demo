@@ -1,0 +1,7 @@
+require:
+  - rubocop-capybara
+  - rubocop-rails
+AllCops:
+  Exclude:
+    - 'db/**'
+    - 'db/**/*'
