@@ -49,6 +49,7 @@ gem 'bootsnap', require: false
 gem 'aws-sdk-rails', '~> 3'
 gem 'aws-sdk-s3', '~> 1'
 gem 'cancancan', '~> 3.3'
+gem 'dartsass-rails', '~> 0.5.1'
 gem 'devise', '~> 4.9', '>= 4.9.4'
 gem 'friendly_id', '~> 5.4', '>= 5.4.2'
 gem 'meta-tags', '~> 2.22'
