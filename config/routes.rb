@@ -5,6 +5,10 @@ Rails.application.routes.draw do
   root 'public#index'
   get 'register', to: 'public#register'
   get 'login', to: 'public#login'
+  get '404', to: 'public#404'
+  get 'blank', to: 'public#blank'
+  get 'charts', to: 'public#charts'
+  get 'tables', to: 'public#tables'
 
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 

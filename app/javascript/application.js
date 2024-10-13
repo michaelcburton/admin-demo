@@ -6,6 +6,3 @@ import "jQuery.easing"
 import "bootstrap"
 import "sb-admin-2"
 import "chartjs"
-import "chart-area-demo"
-import "chart-pie-demo"
-
